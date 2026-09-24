@@ -110,6 +110,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Scamsearch](https://www.scamsearch.io/) | It's a global scam database. Search by Profile Picture, Email, Username, Pseudo Name, Phone Number, crypto address or website. |
 | [Scamalert](https://scam-alert.io/) | It offers a search engine for scam and crypto-address related frauds  |
 | [Cryptoscamdb](https://cryptoscamdb.org/scams) | A scam database which contains information about sites scam and related address  |
+| [CryptoStrapon Scam Detector](https://cryptostrapon.com/scam-detector) | Free AI-powered scam detector for messages, links and wallet addresses (Ethereum + TRON on-chain checks), backed by 48 published fraud investigations. No sign-up. |
 | [Ransomwhere](https://ransomwhe.re/) | Bitcoin address used in ransomware activities, the databse is in raw format and it's integrated in chainabuese service |
 | [Know Your Coin Privacy](https://kycp.org/) | Try to guess relation from BTC adddress using this techiques  Boltzmann analysis, Entity analysis, Address reuse, Input/output merges |
 | [SPLcenter Addresslist](https://www.splcenter.org/cryptocurrency-report) | A spreadsheet containing information about address used by extremists and far right communities |
